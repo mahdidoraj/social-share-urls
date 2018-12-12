@@ -1003,3 +1003,89 @@ Once supported, but no longer.  Some of these may be well-documented.  They are 
     * Official WhatsApp Response: "Sorry, but your description was not clear enough for our agents to understand the issue. Please explain the issue more thoroughly." [Request #172349248330585]
     
     *  ~~whatsapp://send?text={url}~~
+    
+    
+    
+    
+    کد اشتراک گذاری مطالب در شبکه های اجتماعی موبایلی
+لینک یا کد اشتراک گذاری مطالب در تلگرام
+https://telegram.me/share/?url=[GG_Post_Link]&text=[GG_Post_Title]
+
+یا
+tg://msg_url?url=[GG_Post_Link]&text=[GG_Post_Title]
+لینک یا کد اشتراک گذاری مطالب در لاین
+http://line.me/R/msg/text/?[GG_Post_Title]%0D%0A[GG_Post_Link]
+
+لینک یا کد اشتراک گذاری مطالب در واتس آپ
+whatsapp://send?text=[GG_Post_Title]-[GG_Post_Link]
+
+
+کد اشتراک گذاری مطالب در شبکه های اجتماعی خارجی
+لینک یا کد اشتراک گذاری مطالب در فیسبوک
+http://facebook.com/sharer.php?u=[GG_Post_Link]&t=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در تویتر
+http://twitter.com/home?status=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در گوگل پلاس Google + 
+http://plus.google.com/share?url=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در گوگل بوک مارک
+http://google.com/bookmarks/mark?op=add&bkmk=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در گوگل ریدر
+http://google.com/reader/link?url=[GG_Post_Link]&title=[GG_Post_Title]&srcURL=[GG_Post_Images]
+
+لینک یا کد اشتراک گذاری مطالب در گوگل باز
+http://google.com/buzz/post?url=[GG_Post_Link]&title=[GG_Post_Title]&imageurl=[GG_Post_Images]
+
+لینک یا کد اشتراک گذاری مطالب با جیمیل Gmail
+https://mail.google.com/mail/?ui=2&view=cm&fs=1&tf=1&su=[GG_Post_Title]&body=[GG_Post_Link]
+
+لینک یا کد اشتراک گذاری مطالب با ایمیل
+mailto:?subject=[GG_Post_Title]&body=[GG_Post_Link]
+لینک یا کد اشتراک گذاری مطالب در یاهو مسنجر
+ymsgr:im?msg=[GG_Post_Link] - [GG_Post_Title]
+لینک یا کد اشتراک گذاری مطالب در یاهو باز
+http://buzz.yahoo.com/buzz?publisherurn=wsj&targetUrl=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب با یاهو میل Yahoo Mail
+http://compose.mail.yahoo.com/?subject=[GG_Post_Title]&body=[GG_Post_Link]
+
+لینک یا کد اشتراک گذاری مطالب در دیگ digg
+http://digg.com/submit?url=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در دلیسیوس delicious
+http://delicious.com/post?url=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در لینکدین LinkedIn
+http://www.linkedin.com/shareArticle?mini=true&url=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در فرندفید FriendFeed
+http://friendfeed.com/sharing?u=@url&t=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب دربالاترین balatarin
+http://balatarin.com/links/submit?phase=2&url=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در تکنوراتی Technorati
+http://technorati.com/faves?add=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در بلاگر Blogger
+http://www.blogger.com/blog_this.pyra?t&u=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در فلیکر Flickr
+http://www.flickr.com/?url=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در ردیت reddit
+https://pay.reddit.com/submit?url=[GG_Post_Link]&title=[GG_Post_Title]
+
+
+
+کد اشتراک گذاری مطالب در شبکه های اجتماعی ایرانی
+لینک یا کد اشتراک گذاری مطالب در کلوب
+http://www.cloob.com/share/link/add?url=[GG_Post_Link]&title=[GG_Post_Title]
+
+لینک یا کد اشتراک گذاری مطالب در فیس نما
+http://facenama.com/links/?url=[GG_Post_Link]&title=[GG_Post_Title]
+
+
